@@ -72,7 +72,6 @@ export default function HomePage() {
                   🎯 First Two Sessions FREE
                 </Badge>
                 <h1 className="text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
-                  Whole Body
                   <span className="bg-gradient-to-r from-green-600 to-blue-600 bg-clip-text text-transparent">
                     {" "}
                     Vibration
